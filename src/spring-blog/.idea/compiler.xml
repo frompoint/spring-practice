@@ -7,10 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-blog" />
+        <module name="spring-login" />
+        <module name="spring-shop" />
+        <module name="spring-temlpate" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-blog" target="1.8" />
+      <module name="spring-login" target="1.5" />
+      <module name="spring-shop" target="1.5" />
+      <module name="spring-temlpate" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

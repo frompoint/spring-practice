@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.logging.log4j:log4j-api:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/3.0.0-SNAPSHOT/log4j-api-3.0.0-20180719.205229-137.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/3.0.0-SNAPSHOT/log4j-api-3.0.0-20180719.205229-137-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/3.0.0-SNAPSHOT/log4j-api-3.0.0-20180719.205229-137-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

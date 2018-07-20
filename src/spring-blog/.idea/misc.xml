@@ -2,11 +2,17 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-login" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-shop" />
+    <file type="web" url="file://$PROJECT_DIR$/../spring-temlpate" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-shop/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-temlpate/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-login/pom.xml" />
       </list>
     </option>
   </component>
